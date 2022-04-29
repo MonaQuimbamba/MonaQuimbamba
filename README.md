@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, my name is Claudio Antonio,
+My name is Claudio Antonio,
 I'm student on Master's degree in cryptos at Limoges université,
 specializing in cybersecurity and cryptology.
 When I'm not busy doing CTF challanges on onlines plataforme, I love
