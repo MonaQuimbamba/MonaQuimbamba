@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 My name is Claudio Antonio,
 I'm student on Master's degree in cryptos at Limoges université,
 specializing in cybersecurity and cryptology.
-When I'm not busy doing CTF challanges on onlines plataforme, I love
-working on hobby projects
+When I'm not busy doing CTF challanges on onlines plataforme.
