@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Claudio Antonio,
-I'm student on Master's degree in cryptos at Limoges université,
-specializing in cybersecurity and cryptology.
-When I'm not busy doing CTF challanges on onlines plataforme.
+I'm Claudio **Antonio**,a master's student  from Limoges université, in France
+specializing in cybersecurity and cryptology. I love do CTF and Hunt bugs on some online platforms.
+
+
+- 🔭 I’m currently doing  my last year on  college
+- 👯 I’m looking to collaborate on some fun project on topic cyber security
+- 💬 Ask me about [Link](claudio-a.me)
+- 📫 How to reach me: [Link](https://www.linkedin.com/in/claudio-antonio-0038b8194/)
