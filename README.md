@@ -22,7 +22,7 @@ specializing in cybersecurity and cryptology. I love do CTF and Hunt bugs on som
 
 - 🔭 I’m currently doing  my last year on  college
 - 👯 I’m looking to collaborate on some fun project on topic cyber security
-- 💬 Ask me about [my web site](https://claudio-a.me/)
+- 💬 More about what i'm doing  [my web site](https://claudio-a.me/)
 - 📫 How to reach me: [my linkdedin](https://www.linkedin.com/in/claudio-antonio-0038b8194/)
 
 
