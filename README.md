@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 I'm Claudio **Antonio**,a master's student  from Limoges université, in France
-specializing in cybersecurity and cryptology. I love do CTF and Hunt bugs on some online platforms.
+ specialise in cybersecurity and cryptology. I love do CTF and Hunt bugs on some online platforms.
 
 
 - 🔭 I’m currently doing  my last year on  college
