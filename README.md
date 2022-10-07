@@ -25,5 +25,6 @@ I'm Claudio **ANTONIO**,a master's student  from Limoges université, in France
 - 💬 More about what i'm doing  [my web site](https://claudio-a.me/)
 - 📫 keep in touch on : [my linkdedin](https://www.linkedin.com/in/claudio-antonio-0038b8194/)  and my email box <claudio-a@outlook.fr>
 
+![tryhackme](https://tryhackme-badges.s3.amazonaws.com/Oquimbamba.png)
 
-![image](https://tryhackme.com/badge/244360)
+![image]([https://tryhackme.com/badge/244360](https://tryhackme-badges.s3.amazonaws.com/Oquimbamba.png))
