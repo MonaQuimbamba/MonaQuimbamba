@@ -27,4 +27,4 @@ I'm Claudio **ANTONIO**,a master's student  from Limoges université, in France
 
 ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/Oquimbamba.png)
 
-![image]([https://tryhackme.com/badge/244360](https://tryhackme-badges.s3.amazonaws.com/Oquimbamba.png))
+
