@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Claudio **ANTONIO**,a master's student  from Limoges université, in France
- specialise in cybersecurity and cryptology. I love do CTF and Hunt bugs on some online platforms.
+Hello 👋
+I'm Claudio ANTONIO, cybersecurity researcher, SOC analyst and lover of CTF and bug hunting.
+
+- 🔭 I'd like to share with you some of my experiences
+- 📫 Please don't hesitate to contact me if you have any questions or suggestions for collaboration: [my linkdedin](https://www.linkedin.com/in/claudio-antonio-0038b8194/)   and my email box <claudio-a@outlook.fr>
 
 
-- 🔭 I’m currently doing  my last year on  college
-- 👯 I’m looking to collaborate on some fun project on topic cyber security
-- 💬 More about what i'm doing  [my web site](https://claudioantonio.netlify.app/)
-- 📫 keep in touch on : [my linkdedin](https://www.linkedin.com/in/claudio-antonio-0038b8194/)  and my email box <claudio-a@outlook.fr>
-
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/Oquimbamba.png)
 
 
